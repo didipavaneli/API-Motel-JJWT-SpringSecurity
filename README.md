@@ -33,7 +33,7 @@ classDiagram
     TipoQuarto tipoQuarto;    
     List<Hospedagem> hospedagemAtual = new ArrayList<>();
 
-  lass TipoQuarto {
+  class TipoQuarto {
     
     Long id;    
     String descricao;
