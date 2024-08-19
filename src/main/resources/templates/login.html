@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="https://www.thymeleaf.org">
+	<meta charset="UTF-8">
+	<head th:replace="~{base :: head}"></head>
+<body>
+	<div th:replace="~{base :: logo('Login')}"></div>
+	<div class="container"> 
+		<div class="card mb-3">    
+    <form th:action="@{/auth/login}" method="post" class="card-body">
+        <div th:if="${param.error}">
+            <p>Usuário ou senha inválidos.</p>
+        </div>
+        <div th:if="${param.logout}">
+            <p>Você foi desconectado.</p>
+        </div>
+		<div class="form-group">
+			<label for="username">Usuário:</label>
+			<input name="username" class="form-control col-4" placeholder="usuário"/>
+        </div>
+		<div class="form-group">
+			<label for="password">Senha:</label>
+						<input type="password" name="password" class="form-control col-4" placeholder="senha"/>
+        </div>
+        <div>
+			<button class="btn btn-primary" type="submit">Login</button>
+        </div>
+    </form>
+	</div>
+	        </div>
+		<footer th:replace="~{base :: footer}"></footer>
+</body>
+</html>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var jwt = document.cookie.replace(/(?:(?:^|.*;\s*)jwt\s*\=\s*([^;]*).*$)|^.*$/, "$1");
+        if (jwt) {
+            localStorage.setItem('jwt', jwt);
+        }
+    });
+</script>

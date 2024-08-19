@@ -1,0 +1,20 @@
+
+e
+java:S11926"JDefine a constant instead of duplicating this literal "descricao" 3 times.(ì¦‘éøÿÿÿÿ
+€
+java:S6833)"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ
+X
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S68130"BRemove this field injection and use constructor injection instead.(êæÄÞ
+@	java:S106K"+Replace this use of System.out by a logger.(ê¶è´
+@	java:S106L"+Replace this use of System.out by a logger.(®¯®€
+@	java:S106U"+Replace this use of System.out by a logger.(œÎ¸Ý
+@	java:S106X"+Replace this use of System.out by a logger.(Ç÷´ú
+@	java:S106^"+Replace this use of System.out by a logger.(ƒ„®é
+E	java:S106f"+Replace this use of System.out by a logger.(øÍÎ·ùÿÿÿÿ
+@	java:S106j"+Replace this use of System.out by a logger.(ò¿ ñ
+F	java:S106§"+Replace this use of System.out by a logger.(›“ƒ¦úÿÿÿÿ
+F	java:S106¨"+Replace this use of System.out by a logger.(Å¬¼‚ýÿÿÿÿ

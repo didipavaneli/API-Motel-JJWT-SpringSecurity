@@ -1,0 +1,25 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÄòòÂ–2J$f965459e-a280-49d3-8e96-ce90ac69612f
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÅòòÂ–2J$3e366486-79fc-4530-a358-3e5b38455efd
+•
+java:S3305"RInject this field value directly into "filterChain", the only method that uses it.(çãˆâ8ÊòòÂ–2J$02d9ae07-48f0-457e-9b39-2bfe590ba32f
+š
+java:S3305"RInject this field value directly into "filterChain", the only method that uses it.(³ò×‡üÿÿÿÿ8ÌòòÂ–2J$779d9365-8a22-43f3-a176-8673cdaf5ad4
+Š
+java:S5738""HRemove this call to a deprecated method, it has been marked for removal.(ßÒ£E8“óòÂ–2J$008f16d8-620c-4e7d-94e2-58cccfeff967
+‹
+java:S5738#"HRemove this call to a deprecated method, it has been marked for removal.(ÏğÅô8—óòÂ–2J$51c5c55a-a8ac-4a6d-b19b-6ccdec38e3a0
+
+java:S5738&"HRemove this call to a deprecated method, it has been marked for removal.(Åúßµûÿÿÿÿ8óòÂ–2J$dc29d581-e7d6-4f42-ba9e-0e2a263f998d
+‹
+java:S5738'"HRemove this call to a deprecated method, it has been marked for removal.(Ì¿‘‹8¯óòÂ–2J$c903d8bf-e9d7-4655-91a1-712ffacbbafa
+
+java:S5738,"HRemove this call to a deprecated method, it has been marked for removal.(Åúßµûÿÿÿÿ8ºóòÂ–2J$dec630c7-9a95-4eb0-9ab8-a878c72ba4dd
+‹
+java:S5738-"HRemove this call to a deprecated method, it has been marked for removal.(éå×¦8½óòÂ–2J$66109d59-06cb-4407-87ae-776a46deb839
+
+java:S5738/"HRemove this call to a deprecated method, it has been marked for removal.(Åúßµûÿÿÿÿ8ÁóòÂ–2J$6aac6790-7cae-4e3a-90a0-3bbf3d66e07c
+‹
+java:S57381"HRemove this call to a deprecated method, it has been marked for removal.(×íÑø8ÆóòÂ–2J$decdc301-f977-4c69-a171-b987d7f7f0c9

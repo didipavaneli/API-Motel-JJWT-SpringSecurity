@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42085e7b-9d7c-49cb-872e-afab0c25083e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/pavaneli/motel/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/pavaneli/motel/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/pavaneli/motel/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/pavaneli/motel/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/pavaneli/motel/security/jwt/JwtAuthenticationSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/pavaneli/motel/security/jwt/JwtAuthenticationSuccessHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/pavaneli/motel/security/jwt/JwtTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/pavaneli/motel/security/jwt/JwtTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/pavaneli/motel/security/jwt/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/pavaneli/motel/security/jwt/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagens/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagens/imagembarbearia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagens/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagens/logorodape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagens/utensilios.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/adm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hospedagem/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hospedagem/cancelar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hospedagem/fechar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hospedagem/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/pedido/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/pedido/deletar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/pedido/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/produto/alterar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/produto/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/produto/consultar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/produto/deletar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/produto/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quarto/alterar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quarto/alterarstatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quarto/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quarto/consultar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quarto/deletar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quarto/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/tipoquarto/alterar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/tipoquarto/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/tipoquarto/consultar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/tipoquarto/deletar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/tipoquarto/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/usuario/alterar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/usuario/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/usuario/consultar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/usuario/deletar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/usuario/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/pavaneli/motel/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/pavaneli/motel/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/pavaneli/motel/security/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/pavaneli/motel/security/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/pavaneli/motel/security/jwt/JwtAuthenticationSuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/pavaneli/motel/security/jwt/JwtAuthenticationSuccessHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/pavaneli/motel/security/jwt/JwtTokenFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/pavaneli/motel/security/jwt/JwtTokenFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imagens/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imagens/imagembarbearia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imagens/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imagens/logorodape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imagens/utensilios.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/adm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/hospedagem/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/hospedagem/cancelar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/hospedagem/fechar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/hospedagem/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/pedido/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/pedido/deletar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/pedido/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/produto/alterar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/produto/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/produto/consultar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/produto/deletar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/produto/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/quarto/alterar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/quarto/alterarstatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/quarto/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/quarto/consultar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/quarto/deletar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/quarto/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/tipoquarto/alterar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/tipoquarto/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/tipoquarto/consultar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/tipoquarto/deletar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/tipoquarto/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/usuario/alterar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/usuario/cadastrar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/usuario/consultar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/usuario/deletar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/usuario/sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/motel-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/motel-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/motel-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/motel-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-07-18T21-05-14_042.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-br.com.pavaneli.motel.MotelApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-br.com.pavaneli.motel.MotelApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/br.com.pavaneli.motel.MotelApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/br.com.pavaneli.motel.MotelApplicationTests.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2krCpXr3N5RpsN0GhNAzDcttcAD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MotelApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42085e7b-9d7c-49cb-872e-afab0c25083e" name="Changes" comment="" />
+      <created>1724032495490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724032495490</updated>
+    </task>
+    <servers />
+  </component>
+</project>
